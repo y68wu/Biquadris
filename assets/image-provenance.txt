@@ -1,0 +1,20 @@
+BIQUADRIS HERO IMAGE
+
+Created: 2026-10-27
+Generator: OpenAI built-in image_gen tool (default built-in mode; no CLI fallback)
+Role: Decorative AI-generated portfolio hero art, not an original project screenshot.
+Original image: hero-blocks.png (1672 x 941)
+Web optimized derivative: hero-blocks.webp (same pixels; WebP compression only)
+
+FINAL PROMPT
+
+Use case: stylized-concept
+Asset type: polished editorial website hero for a software engineering portfolio project about a two-player falling-block puzzle game called Biquadris.
+Primary request: an elegant three-dimensional sculpture of exactly seven distinct tetromino pieces, each constructed from four connected cubic blocks. Pieces suggest I, J, L, O, S, Z, and T shapes arranged in a loose interlocking floating assembly, not a solid cube. Beautifully art-directed, believable physically rendered materials.
+Scene/backdrop: seamless near-black forest green studio background, exact dominant background #101b18, gently fading to very dark ink at all edges. No horizon line and no visible room.
+Composition/framing: very wide landscape 16:9 image. Entire sculpture on the right two-thirds, diagonal isometric composition rising from lower right toward upper middle; large clean negative space on left third for typography. Do not crop any pieces. Leave generous breathing room around sculpture.
+Lighting/mood: sophisticated quiet luminous frosted glass under soft studio illumination, realistic ambient occlusion, subtle soft shadows and reflections, restrained glow, premium technology editorial aesthetic.
+Color palette: translucent frosted mint green #a4e69c, pale cyan, deep green glass, and small muted chartreuse accents. Mostly green, soft accents only.
+Materials/textures: thick frosted glass/resin cubes with small rounded bevels, delicate fine grain, precise sculptural geometry, light transmitted through glass.
+Text: none.
+Constraints: no words, letters, digits, logo, watermark, interface, screen, stars, sparks, neon tubes, game controller, computer. No busy background. Avoid generic gaming poster style, oversaturated neon and rainbow palette. High detail, refined material realism.
