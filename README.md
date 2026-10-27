@@ -144,3 +144,8 @@ assets/                 Hero artwork and image provenance
 Original coursework: **Chris Wu and Yan Cui · CS 246 · University of Waterloo · Fall 2024**.
 
 The hero is AI-generated decorative artwork, not an original game screenshot. Gameplay boards are rendered live from game state. The [image provenance](assets/image-provenance.txt) records the built-in generator and final prompt.
+
+
+## Portable copy
+
+Run `node build.mjs` to create `dist/index.html`, a single-file copy with scripts, styles, and artwork embedded. You can open that file directly in a browser; optional web fonts fall back to system fonts when offline.
