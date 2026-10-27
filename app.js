@@ -230,8 +230,8 @@ function updateCommandPreview() {
   else description = 'press Enter to run. Use “All commands” for full syntax and examples';
   if (n === 0) description = 'do nothing (zero repetitions)';
   const p = game.players[game.active];
-  if (n > 0 && p.heavy && ['left','right','l','r','ri','lef'].includes(token) && !SHAPES[match[2]]) description += '; heavy then attempts two rows down (and locks if blocked)';
   if (n > 0 && !SHAPES[match[2]] && p.level >= 3 && ['left','right','down','do','l','r','ri','lef','cw','cc','ccw','clockwise','counterclockwise'].includes(token)) description += '; then attempt one extra row down at this level';
+  if (n > 0 && p.heavy && ['left','right','l','r','ri','lef'].includes(token) && !SHAPES[match[2]]) description += '; heavy then attempts two rows down (and locks if blocked)';
   $('#command-preview').textContent = `${raw} → ${description}.`;
 }
 $('#command-input').addEventListener('input', updateCommandPreview);
